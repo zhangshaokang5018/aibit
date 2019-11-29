@@ -1,0 +1,17 @@
+.\objects\ff.o: ..\Fatfs\ff.c
+.\objects\ff.o: ..\Fatfs\ff.h
+.\objects\ff.o: ..\Fatfs\integer.h
+.\objects\ff.o: ..\Fatfs\ffconf.h
+.\objects\ff.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\ff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\ff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ff.o: ..\Public\FreeRTOSConfig.h
+.\objects\ff.o: ..\FreeRTOS\include\projdefs.h
+.\objects\ff.o: ..\FreeRTOS\include\portable.h
+.\objects\ff.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\ff.o: ..\FreeRTOS\include\portmacro.h
+.\objects\ff.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\ff.o: ..\FreeRTOS\include\semphr.h
+.\objects\ff.o: ..\FreeRTOS\include\queue.h
+.\objects\ff.o: ..\Fatfs\diskio.h
+.\objects\ff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

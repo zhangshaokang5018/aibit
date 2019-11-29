@@ -1,0 +1,16 @@
+.\objects\urlencode.o: ..\Network\urlencode.c
+.\objects\urlencode.o: ..\Network\urlencode.h
+.\objects\urlencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\urlencode.o: ..\Fatfs\ff.h
+.\objects\urlencode.o: ..\Fatfs\integer.h
+.\objects\urlencode.o: ..\Fatfs\ffconf.h
+.\objects\urlencode.o: ..\FreeRTOS\include\FreeRTOS.h
+.\objects\urlencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\urlencode.o: ..\Public\FreeRTOSConfig.h
+.\objects\urlencode.o: ..\FreeRTOS\include\projdefs.h
+.\objects\urlencode.o: ..\FreeRTOS\include\portable.h
+.\objects\urlencode.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\urlencode.o: ..\FreeRTOS\include\portmacro.h
+.\objects\urlencode.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\urlencode.o: ..\FreeRTOS\include\semphr.h
+.\objects\urlencode.o: ..\FreeRTOS\include\queue.h
